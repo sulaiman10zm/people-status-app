@@ -1,0 +1,8 @@
+# Local database configuration
+config.php
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
