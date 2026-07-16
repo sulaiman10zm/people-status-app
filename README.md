@@ -2,6 +2,10 @@
 
 A small PHP and MySQL application for adding people, displaying their records, and toggling each person's status between `0` and `1` without reloading the page.
 
+## Screenshot
+
+![People Status App interface](screenshots/people-status-app.png)
+
 ## Features
 
 - Add a person's name and age.
