@@ -1,6 +1,6 @@
 # People Status App
 
-A small PHP and MySQL application for adding people, displaying their records, and toggling each person's status between `0` and `1` without reloading the page.
+A PHP and MySQL application for adding people, displaying their records, and toggling each person's status between `0` and `1` without reloading the page.
 
 ## Screenshot
 
